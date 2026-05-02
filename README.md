@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JWjinwon2
-- 👀 I’m interested in Python, C# and Kotlin.
-- 🌱 I’m currently learning C# and Kotlin.
-- 💞️ I’m looking to collaborate on My self lol
-- 📫 How to reach me: Don't try :)
+Hey! I'm @JWjinwon2
+
+I'm currently interested in Unity, Godot.
+
+Not really active for now, maybe active next year
 
 <!---
 JWjinwon2/JWjinwon2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
